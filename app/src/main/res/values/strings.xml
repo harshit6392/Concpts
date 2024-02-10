@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Concpts</string>
+    <string name="splashText" translatable="false">CONCPTS</string>
+    <string name="intro1">This is the perfect time to spend your day \n learning something new, from anywhere!</string>
+    <string name="learn_anytime_and_anywhere">Learn anytime \n and anywhere</string>
+    <string name="improve_your_skills">Improve your skills</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create_your_account">Create your Account</string>
+    <string name="sign_in">Log In</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="email">Enter your email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forgotten your login details? Get help with logging in.</string>
+    <string name="login">Already have an Account, Login ?</string>
+    <string name="sign_in_with_google">Continue with google</string>
+    <string name="or">OR</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="next">Next</string>
+    <string name="fullName">Full name</string>
+</resources>

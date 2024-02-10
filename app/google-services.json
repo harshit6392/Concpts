@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78952009357",
+    "project_id": "concpts-d1380",
+    "storage_bucket": "concpts-d1380.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78952009357:android:54a999d5475f0b31c6dcc4",
+        "android_client_info": {
+          "package_name": "com.concpt.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDTA4jwQbLLQTwiYTLlKY9ksVuvvRaHNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
