@@ -6,4 +6,5 @@
     <color name="Success">#5BA092</color>
     <color name="lightGrey">#696762</color>
     <color name="red">#FF0000</color>
+    <color name="dateColor">#C8C8C8</color>
 </resources>

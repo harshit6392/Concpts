@@ -21,6 +21,14 @@ class Login : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(binding.root)
 
+        //check if the user is already logged in
+        auth = FirebaseAuth.getInstance()
+        if (auth.currentUser != null) {
+            val intent = Intent(this, HomeActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
+
         // Handle the click event of the "Login" button.
         binding.loginbutton.setOnClickListener {
             if (binding.loginEmailEditText.text.toString().isEmpty() or
